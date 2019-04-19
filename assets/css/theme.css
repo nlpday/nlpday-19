@@ -1213,6 +1213,9 @@ center
 	transform: scale(1.1);
 }
 
+.sponsor_color {
+	text-align: center;
+}
 
 /*=====================================================
     SECTION CONTACT
